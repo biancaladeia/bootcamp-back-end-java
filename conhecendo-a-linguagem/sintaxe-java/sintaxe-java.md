@@ -1,4 +1,4 @@
-# Java Básico
+# Sintaxe
 
 Repositório do Bootcamp Back-End Java Santander. Exercícios, projetos e exemplos abordando Java, Spring, SQL e mais.
 
